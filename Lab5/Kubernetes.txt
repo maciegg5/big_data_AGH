@@ -1,0 +1,21 @@
+Kubernetes, często określany jako K8s (z uwagi na osiem liter "ubernete" pomiędzy "K" i "s"), to potężne narzędzie do automatyzacji zarządzania kontenerami. Kontenery stały się popularnym sposobem pakowania, wysyłania i uruchamiania aplikacji ze względu na swoją lekkość i przenośność. Kubernetes zapewnia kompleksowe środowisko do zarządzania tymi kontenerami, pomagając w automatyzacji ich wdrażania, skalowania oraz utrzymania.
+
+Początki Kubernetes sięgają zespołu inżynierów Google, którzy w 2014 roku udostępnili ten projekt na licencji open-source. Obecnie, Kubernetes jest rozwijany przez szeroką społeczność deweloperów i jest jednym z najaktywniej rozwijających się projektów na świecie.
+
+Kubernetes oferuje wiele korzyści, które czynią go atrakcyjnym rozwiązaniem dla organizacji:
+
+    Elastyczność i przenośność: Kubernetes umożliwia uruchamianie aplikacji w dowolnym środowisku - na lokalnej maszynie, na serwerze w chmurze publicznej lub prywatnej. Jest to możliwe dzięki abstrakcji warstwy infrastruktury, która pozwala na jednolite zarządzanie aplikacjami niezależnie od środowiska.
+
+    Automatyzacja: Kubernetes automatyzuje wiele zadań związanych z zarządzaniem aplikacjami w kontenerach, takich jak wdrażanie, skalowanie, zarządzanie konfiguracją, oraz monitorowanie. Dzięki temu zespoły mogą skupić się na rozwoju aplikacji, zamiast tracić czas na ręczne zarządzanie infrastrukturą.
+
+    Elastyczne skalowanie: Kubernetes umożliwia elastyczne skalowanie aplikacji w zależności od obciążenia. Można automatycznie dostosować liczbę instancji aplikacji w oparciu o parametry takie jak obciążenie CPU czy liczba żądań HTTP.
+
+    Zarządzanie deklaratywne: Konfiguracja aplikacji w Kubernetes odbywa się za pomocą plików YAML, co umożliwia deklaratywne definiowanie stanu aplikacji. Kubernetes dba o to, aby aktualny stan aplikacji zawsze odpowiadał deklarowanemu stanowi.
+
+    Bezpieczeństwo: Kubernetes zapewnia szereg mechanizmów bezpieczeństwa, takich jak izolacja zasobów, zarządzanie tożsamościami, oraz kontrola dostępu. Pozwala to organizacjom utrzymać bezpieczeństwo swoich aplikacji i danych.
+
+    Obsługa wielu kontenerów: Kubernetes obsługuje różne typy kontenerów, w tym Docker, containerd, oraz CRI-O, co daje organizacjom elastyczność w wyborze technologii kontenerowej.
+
+    Rozbudowana społeczność: Kubernetes cieszy się ogromną popularnością wśród deweloperów i firm, co przekłada się na bogatą społeczność wspierającą jego rozwój oraz dostępność licznych dodatkowych narzędzi i rozszerzeń.
+
+Podsumowując, Kubernetes jest niezwykle potężnym narzędziem do zarządzania kontenerami, które umożliwia organizacjom szybkie i efektywne wdrażanie oraz skalowanie aplikacji w dowolnym środowisku. Dzięki swojej elastyczności, automatyzacji i bezpieczeństwu, Kubernetes stał się standardem w dziedzinie zarządzania kontenerami i jest niezbędnym narzędziem w dzisiejszym środowisku IT.
